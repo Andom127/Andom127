@@ -1,5 +1,5 @@
 ## Hi there 👋
-Things I have worked on:
+## Things I have worked on:
 
 - https://oldbomb.itch.io/clubies-gdw **(Level Design)**
 - https://neonyah.itch.io/infectiball **(Programming, Level Design)**
